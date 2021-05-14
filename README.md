@@ -5,9 +5,9 @@
 <!-- GitHub Stats -->  
 <p>  
 <!-- GitHub Stats -->  
-<img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=m1fov&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=react" />
+<img width="49.5%" height="180em" src="https://github-readme-stats.vercel.app/api?username=m1fov&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=react" />
 <!-- Most Used Languages -->  
-<img width="49%" height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1fov&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
+<img width="49.5%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1fov&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
 </p>  
 
 
